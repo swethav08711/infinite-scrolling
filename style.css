@@ -1,0 +1,13 @@
+.container {
+  width: 20%;
+  border: 18px solid brown;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: brown;
+}
+.boxing {
+  border-bottom: 2px solid goldenrod;
+}
